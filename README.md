@@ -1,4 +1,5 @@
-# new-project
+#  small project for config tailwindcss and vue3 and practice vue3
+##  
 
 ## Project setup
 ```
